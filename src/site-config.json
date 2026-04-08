@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "SacramentoCityPowerwashing",
+    "phone": "+19168669629",
+    "category": "power washing",
+    "city": "Sacramento",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "power-washing-heritage-craft",
+      "categoryGroup": "power-washing",
+      "name": "Heritage Craft",
+      "recipeFile": "power-washing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3A7088",
+        "primaryDark": "#234352",
+        "primaryLight": "#bacdd5",
+        "secondary": "#315f74",
+        "accent": "#3A7088",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#315f74",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "power-washing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Sacramento's Power Washing Experts",
+      "heroSubline": "Restore your home's beauty and protect its value with our professional power washing services. Serving Sacramento, Elk Grove, and surrounding areas.",
+      "aboutTitle": "Your Local Power Washing Professionals",
+      "aboutText": [
+        "SacramentoCityPowerwashing started with a simple goal: to provide exceptional cleaning services to our neighbors while respecting the environment. We're a locally owned and operated company, deeply rooted in the Sacramento community.",
+        "We believe in doing things right the first time. Our team uses advanced equipment and eco-friendly cleaning solutions to deliver outstanding results without damaging your property or harming the environment. We take pride in our meticulous attention to detail and commitment to customer satisfaction.",
+        "We're committed to giving back to the community that supports us. We actively participate in local events and contribute to environmental initiatives in the Sacramento area. When you choose SacramentoCityPowerwashing, you're supporting a business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Eco-Friendly Cleaning",
+          "description": "We use biodegradable detergents and responsible water usage practices."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team is highly trained and experienced in all aspects of power washing."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "We offer fair and transparent pricing with no hidden fees."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We're not happy until you're completely satisfied with our work."
+        }
+      ],
+      "ctaHeadline": "Get a Free Quote Today!",
+      "ctaSubline": "Transform your property with our professional power washing services. Contact us now for a free estimate."
+    },
+    "services": [
+      {
+        "slug": "house-washing",
+        "name": "House Washing",
+        "shortDescription": "Restore your home's curb appeal with our gentle and effective house washing service.",
+        "description": "Sacramento's unique climate, with its hot, dry summers and mild, wet winters, can take a toll on your home's exterior. Dirt, grime, algae, and mildew can accumulate on siding, brick, and stucco, diminishing its appearance and potentially causing damage. Our house washing service is designed to remove these contaminants safely and effectively, restoring your home to its original beauty. We use a soft washing technique, which combines low-pressure water with specialized cleaning solutions to gently lift away dirt and grime without damaging your siding. This method is safe for all types of siding, including vinyl, wood, stucco, and brick. We pay close attention to detail, ensuring that every nook and cranny is thoroughly cleaned. Protect your investment and enhance your home's curb appeal with our professional house washing service.",
+        "process": [
+          "Step 1: Thorough inspection of your home's exterior to identify any problem areas or delicate surfaces.",
+          "Step 2: Application of our eco-friendly cleaning solution to loosen dirt and grime.",
+          "Step 3: Gentle rinsing with low-pressure water to remove contaminants.",
+          "Step 4: Final inspection to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Removes dirt, grime, algae, and mildew",
+          "Restores your home's curb appeal",
+          "Protects your siding from damage",
+          "Extends the life of your paint"
+        ],
+        "faq": [
+          {
+            "question": "Will house washing damage my siding?",
+            "answer": "No, our soft washing technique uses low pressure and gentle cleaning solutions that are safe for all types of siding."
+          },
+          {
+            "question": "How often should I have my house washed?",
+            "answer": "We recommend having your house washed every 1-2 years to maintain its appearance and prevent damage."
+          },
+          {
+            "question": "Are your cleaning solutions environmentally friendly?",
+            "answer": "Yes, we use biodegradable and environmentally friendly cleaning solutions that are safe for your family, pets, and plants."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-cleaning",
+        "name": "Driveway Cleaning",
+        "shortDescription": "Remove oil stains and grime from your driveway with our powerful driveway cleaning service.",
+        "description": "Driveways are notorious for accumulating oil stains, dirt, and grime. Over time, these stains can become deeply embedded, making your driveway look unsightly. Our driveway cleaning service uses high-pressure water and specialized cleaning solutions to remove even the toughest stains, restoring your driveway to its original condition. We understand that Sacramento's clay soil can contribute to driveway staining, and our techniques are designed to combat this specific challenge. We carefully assess the surface of your driveway to determine the appropriate pressure and cleaning solutions to use. We also take precautions to protect your landscaping and prevent water runoff. Whether your driveway is concrete, asphalt, or pavers, we have the expertise and equipment to clean it effectively.",
+        "process": [
+          "Step 1: Application of a degreasing agent to loosen oil stains and grime.",
+          "Step 2: High-pressure power washing to remove contaminants.",
+          "Step 3: Rinsing with clean water.",
+          "Step 4: Optional sealing to protect your driveway from future stains."
+        ],
+        "benefits": [
+          "Removes oil stains, dirt, and grime",
+          "Restores your driveway's appearance",
+          "Prevents weed growth",
+          "Increases your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "Will driveway cleaning damage my concrete?",
+            "answer": "No, we use appropriate pressure settings and techniques to avoid damaging your concrete."
+          },
+          {
+            "question": "How long does driveway cleaning take?",
+            "answer": "The duration depends on the size and condition of your driveway, but it typically takes 2-4 hours."
+          },
+          {
+            "question": "Do I need to be home during the service?",
+            "answer": "No, but we appreciate it if you can be available to answer any questions we may have."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-cleaning",
+        "name": "Deck & Patio Cleaning",
+        "shortDescription": "Prepare your outdoor spaces for entertaining with our deck and patio cleaning service.",
+        "description": "Decks and patios are great for enjoying Sacramento's beautiful weather, but they can quickly become dirty and stained. Mold, mildew, algae, and dirt can accumulate on the surface, making them slippery and unattractive. Our deck and patio cleaning service removes these contaminants, restoring your outdoor spaces to their original beauty. We use specialized cleaning solutions and low-pressure washing techniques to protect your deck and patio from damage. We understand the unique challenges of cleaning wood, composite, and concrete surfaces, and we tailor our approach accordingly. Whether you have a small patio or a large deck, we can help you prepare your outdoor spaces for entertaining and relaxation.",
+        "process": [
+          "Step 1: Inspection of your deck or patio to assess the type of material and the extent of the cleaning needed.",
+          "Step 2: Application of a specialized cleaning solution to loosen dirt and grime.",
+          "Step 3: Gentle power washing with low pressure to remove contaminants.",
+          "Step 4: Optional sealing or staining to protect your deck or patio from future damage."
+        ],
+        "benefits": [
+          "Removes mold, mildew, algae, and dirt",
+          "Restores your deck or patio's appearance",
+          "Makes your outdoor spaces safer",
+          "Extends the life of your deck or patio"
+        ],
+        "faq": [
+          {
+            "question": "Will deck cleaning damage my wood?",
+            "answer": "No, we use low pressure and specialized cleaning solutions that are safe for all types of wood."
+          },
+          {
+            "question": "How often should I have my deck or patio cleaned?",
+            "answer": "We recommend having your deck or patio cleaned every 1-2 years to maintain its appearance and prevent damage."
+          },
+          {
+            "question": "Do you offer deck staining or sealing?",
+            "answer": "Yes, we offer deck staining and sealing services to protect your deck from the elements."
+          }
+        ]
+      },
+      {
+        "slug": "fence-cleaning",
+        "name": "Fence Cleaning",
+        "shortDescription": "Protect and beautify your fence with our professional fence cleaning service.",
+        "description": "Fences are exposed to the elements year-round, and they can quickly become dirty and stained. Algae, mildew, and dirt can accumulate on the surface, making your fence look unsightly. Our fence cleaning service removes these contaminants, restoring your fence to its original beauty. We use specialized cleaning solutions and low-pressure washing techniques to protect your fence from damage. We understand the unique challenges of cleaning wood, vinyl, and metal fences, and we tailor our approach accordingly. We also pay close attention to detail, ensuring that all sides of your fence are thoroughly cleaned. A clean fence not only enhances your property's curb appeal but also helps to extend its lifespan.",
+        "process": [
+          "Step 1: Inspection of your fence to assess the type of material and the extent of the cleaning needed.",
+          "Step 2: Application of a specialized cleaning solution to loosen dirt and grime.",
+          "Step 3: Gentle power washing with low pressure to remove contaminants.",
+          "Step 4: Optional staining or sealing to protect your fence from future damage."
+        ],
+        "benefits": [
+          "Removes algae, mildew, and dirt",
+          "Restores your fence's appearance",
+          "Extends the life of your fence",
+          "Increases your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "Will fence cleaning damage my wood fence?",
+            "answer": "No, we use low pressure and specialized cleaning solutions that are safe for all types of wood."
+          },
+          {
+            "question": "How long does fence cleaning take?",
+            "answer": "The duration depends on the size and condition of your fence, but it typically takes 1-3 hours."
+          },
+          {
+            "question": "Do you offer fence staining or sealing?",
+            "answer": "Yes, we offer fence staining and sealing services to protect your fence from the elements."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Ensure proper water drainage with our thorough gutter cleaning service.",
+        "description": "Clogged gutters can cause serious water damage to your home. When gutters are full of leaves, debris, and dirt, they can't effectively channel rainwater away from your foundation. This can lead to water damage to your roof, siding, and foundation. Our gutter cleaning service removes all debris from your gutters and downspouts, ensuring proper water drainage. We carefully inspect your gutters to identify any potential problems, such as leaks or sagging. We also clear any clogs in your downspouts to ensure that water flows freely away from your home. Protect your home from water damage with our professional gutter cleaning service. Given Sacramento's occasional heavy rainfall, maintaining clear gutters is essential.",
+        "process": [
+          "Step 1: Removal of all leaves, debris, and dirt from your gutters.",
+          "Step 2: Flushing of your downspouts to ensure they are clear of clogs.",
+          "Step 3: Inspection of your gutters for any potential problems.",
+          "Step 4: Disposal of debris in an environmentally responsible manner."
+        ],
+        "benefits": [
+          "Prevents water damage to your home",
+          "Protects your roof, siding, and foundation",
+          "Extends the life of your gutters",
+          "Prevents pest infestations"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend having your gutters cleaned at least twice a year, especially in the spring and fall."
+          },
+          {
+            "question": "What happens if my gutters are damaged?",
+            "answer": "We can identify any damage to your gutters and recommend appropriate repairs or replacements."
+          },
+          {
+            "question": "Do you offer gutter repair services?",
+            "answer": "While we specialize in cleaning, we can refer you to trusted local contractors for gutter repairs."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-power-washing",
+        "name": "Commercial Power Washing",
+        "shortDescription": "Maintain a professional image with our commercial power washing services.",
+        "description": "First impressions matter, and a clean exterior can make a big difference in how customers perceive your business. Our commercial power washing services are designed to help you maintain a professional image. We clean a variety of commercial properties, including storefronts, office buildings, restaurants, and warehouses. We use powerful equipment and specialized cleaning solutions to remove dirt, grime, graffiti, and other contaminants. We understand the unique challenges of cleaning commercial properties, and we work quickly and efficiently to minimize disruption to your business. We also offer flexible scheduling options to accommodate your needs. Keep your business looking its best with our commercial power washing services.",
+        "process": [
+          "Step 1: Assessment of your property to determine the best cleaning approach.",
+          "Step 2: Application of specialized cleaning solutions to loosen dirt and grime.",
+          "Step 3: High-pressure power washing to remove contaminants.",
+          "Step 4: Rinsing with clean water and final inspection."
+        ],
+        "benefits": [
+          "Improves your business's curb appeal",
+          "Creates a positive first impression",
+          "Removes graffiti and other unsightly stains",
+          "Protects your property from damage"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer after-hours cleaning?",
+            "answer": "Yes, we offer flexible scheduling options to minimize disruption to your business."
+          },
+          {
+            "question": "Are your cleaning solutions safe for commercial properties?",
+            "answer": "Yes, we use environmentally friendly cleaning solutions that are safe for your employees, customers, and the environment."
+          },
+          {
+            "question": "Can you remove graffiti?",
+            "answer": "Yes, we have specialized equipment and cleaning solutions to remove graffiti effectively."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Elk Grove",
+        "slug": "elk-grove-ca",
+        "state": "CA",
+        "content": "SacramentoCityPowerwashing is proud to offer our expert power washing services to the residents and businesses of Elk Grove, California. As a rapidly growing city with many master-planned communities built from the 1990s to the present, Elk Grove homes often require regular cleaning to maintain their curb appeal and protect against the elements. We understand the specific needs of Elk Grove homeowners, from removing algae and mildew that thrive in our hot, dry summers to cleaning driveways stained by the wear and tear of daily life.",
+        "localContext": "Elk Grove is known for its family-friendly atmosphere and newer, well-maintained neighborhoods, requiring a meticulous approach to power washing that preserves the beauty of your property.",
+        "nearbyAreas": [
+          "Sacramento",
+          "Laguna",
+          "Galt"
+        ]
+      },
+      {
+        "city": "Roseville",
+        "slug": "roseville-ca",
+        "state": "CA",
+        "content": "SacramentoCityPowerwashing extends its top-tier power washing services to Roseville, California. With its abundance of planned communities developed primarily in the 1990s and 2000s, Roseville boasts many beautiful homes that benefit from regular professional cleaning. We are equipped to handle the unique challenges posed by Roseville's climate, including removing dirt and grime accumulated during the hot, dry summers where temperatures often exceed 100F.",
+        "localContext": "Roseville's planned communities emphasize aesthetics, making professional power washing a crucial part of home maintenance and property value preservation.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Granite Bay",
+          "Citrus Heights"
+        ]
+      },
+      {
+        "city": "Folsom",
+        "slug": "folsom-ca",
+        "state": "CA",
+        "content": "SacramentoCityPowerwashing is dedicated to providing exceptional power washing services to the residents and businesses in Folsom, California. Folsom's newer planned communities and proximity to Folsom Lake mean homes and businesses are exposed to unique environmental factors. Our services help to maintain the beauty and integrity of your property, removing dirt, algae, and other contaminants that accumulate over time, especially during the hot, dry summers common to the area.",
+        "localContext": "Folsom's combination of suburban living and outdoor recreational opportunities makes maintaining clean and attractive properties a high priority.",
+        "nearbyAreas": [
+          "Granite Bay",
+          "El Dorado Hills",
+          "Orangevale"
+        ]
+      },
+      {
+        "city": "Sacramento",
+        "slug": "sacramento-ca",
+        "state": "CA",
+        "content": "As Sacramento's premier power washing provider, SacramentoCityPowerwashing is deeply rooted in serving the diverse neighborhoods of our capital city. From historic homes in midtown to modern residences in newer developments, we offer customized power washing solutions to meet the unique needs of Sacramento properties. We understand the challenges posed by Sacramento's climate, including hot summers and occasional heavy rains, and are equipped to effectively clean and protect your home or business.",
+        "localContext": "Sacramento's rich history and diverse architecture demand a power washing service that is both effective and sensitive to the unique characteristics of each property.",
+        "nearbyAreas": [
+          "West Sacramento",
+          "Carmichael",
+          "Citrus Heights"
+        ]
+      },
+      {
+        "city": "Citrus Heights",
+        "slug": "citrus-heights-ca",
+        "state": "CA",
+        "content": "SacramentoCityPowerwashing proudly serves Citrus Heights, CA, providing top-quality power washing services to homeowners and businesses alike. Citrus Heights features a mix of established neighborhoods and newer developments, all of which benefit from regular exterior cleaning. We specialize in removing dirt, grime, and mildew buildup caused by the area's climate, ensuring your property looks its best and retains its value.",
+        "localContext": "Citrus Heights' suburban environment makes maintaining a clean and attractive home exterior a key aspect of neighborhood pride.",
+        "nearbyAreas": [
+          "Roseville",
+          "Orangevale",
+          "Fair Oaks"
+        ]
+      },
+      {
+        "city": "Carmichael",
+        "slug": "carmichael-ca",
+        "state": "CA",
+        "content": "SacramentoCityPowerwashing is pleased to offer our professional power washing services to the Carmichael community. Carmichael's blend of established homes and lush landscaping requires specialized cleaning techniques to ensure both effectiveness and safety. We are experienced in removing dirt, algae, and other contaminants from a variety of surfaces, protecting your property's value and enhancing its curb appeal.",
+        "localContext": "Carmichael's mature trees and established landscaping create a unique environment that demands careful and effective power washing solutions.",
+        "nearbyAreas": [
+          "Fair Oaks",
+          "Citrus Heights",
+          "Sacramento"
+        ]
+      },
+      {
+        "city": "Lincoln",
+        "slug": "lincoln-ca",
+        "state": "CA",
+        "content": "SacramentoCityPowerwashing is delighted to extend its power washing expertise to Lincoln, CA. As one of the fastest-growing cities in the Sacramento region, Lincoln features many new homes that benefit from regular maintenance to keep them looking their best. We understand the challenges posed by the local climate and offer effective cleaning solutions to protect your investment and enhance your property's curb appeal. From removing dirt and grime to eliminating mold and mildew, we ensure your home maintains its beauty.",
+        "localContext": "Lincoln's rapid growth and focus on community development make professional power washing a valuable service for maintaining property values and neighborhood aesthetics.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Roseville",
+          "Wheatland"
+        ]
+      },
+      {
+        "city": "Rocklin",
+        "slug": "rocklin-ca",
+        "state": "CA",
+        "content": "SacramentoCityPowerwashing is committed to providing exceptional power washing services to the residents and businesses of Rocklin, CA. Known for its well-maintained neighborhoods and family-friendly environment, Rocklin properties benefit greatly from regular exterior cleaning. Our services address the specific challenges of the local climate, including removing dirt and grime accumulated during hot summers and protecting surfaces from the elements. We are dedicated to ensuring your property looks its best and maintains its value.",
+        "localContext": "Rocklin's focus on quality of life makes maintaining a clean and attractive property a top priority for homeowners.",
+        "nearbyAreas": [
+          "Roseville",
+          "Lincoln",
+          "Granite Bay"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "House Washing",
+        "text": "SacramentoCityPowerwashing did an amazing job on my house! It was covered in algae and dirt, and now it looks brand new. They were professional, efficient, and reasonably priced. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "service": "Driveway Cleaning",
+        "text": "My driveway was a mess with oil stains. SacramentoCityPowerwashing came out and made it look so much better. Some stains are still there, but it's a huge improvement. Great service!",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 5,
+        "service": "Deck & Patio Cleaning",
+        "text": "Our deck was green with mildew! SacramentoCityPowerwashing cleaned it up beautifully, just in time for summer. They were careful with my plants and left everything spotless. Will definitely use them again.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Fence Cleaning",
+        "text": "My fence was looking pretty rough. I was thinking about replacing it, but SacramentoCityPowerwashing cleaned it up so well that it looks brand new! Saved me a lot of money. Very happy with the results.",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "They were prompt and efficient. My gutters were overflowing, and they cleaned them out quickly. I appreciate their thoroughness. A little pricier than I expected, but worth it for the peace of mind.",
+        "date": "2025-07-12"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Commercial Power Washing",
+        "text": "SacramentoCityPowerwashing did an excellent job cleaning the exterior of our restaurant. It looks so much brighter and more inviting. They worked around our schedule and were very professional. Highly recommended for commercial properties!",
+        "date": "2025-08-03"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Sacramento Power Washing | Local Experts",
+        "description": "Sacramento's top-rated power washing. House washing, driveway cleaning, and more. Free quotes! Serving Elk Grove, Roseville, Folsom."
+      },
+      "about": {
+        "title": "About SacramentoCityPowerwashing",
+        "description": "Learn about SacramentoCityPowerwashing's commitment to quality and customer satisfaction. Local, reliable, and eco-friendly power washing services."
+      },
+      "services": {
+        "title": "Power Washing Services | Sacramento, CA",
+        "description": "Comprehensive power washing services in Sacramento. House washing, driveway cleaning, deck cleaning, and more. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Us | Sacramento Power Washing",
+        "description": "Contact SacramentoCityPowerwashing for a free quote. Experienced power washing professionals serving Sacramento, Elk Grove, and Roseville."
+      },
+      "reviews": {
+        "title": "SacramentoCityPowerwashing Reviews",
+        "description": "Read reviews from satisfied SacramentoCityPowerwashing customers. See why we're the top choice for power washing in the area."
+      },
+      "service-areas": {
+        "title": "Service Areas | Sacramento Power Washing",
+        "description": "SacramentoCityPowerwashing serves Sacramento, Elk Grove, Roseville, and Folsom. Get a free quote for power washing in your area!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "house-washing": "/images/service-house-washing.webp",
+      "driveway-cleaning": "/images/service-driveway-cleaning.webp",
+      "deck-patio-cleaning": "/images/service-deck-patio-cleaning.webp",
+      "fence-cleaning": "/images/service-fence-cleaning.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "commercial-power-washing": "/images/service-commercial-power-washing.webp"
+    },
+    "servicesResponsive": {
+      "house-washing": {
+        "src": "/images/service-house-washing.webp",
+        "srcset": "/images/service-house-washing-400w.webp 400w, /images/service-house-washing-800w.webp 800w, /images/service-house-washing-1200w.webp 1200w, /images/service-house-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-cleaning": {
+        "src": "/images/service-driveway-cleaning.webp",
+        "srcset": "/images/service-driveway-cleaning-400w.webp 400w, /images/service-driveway-cleaning-800w.webp 800w, /images/service-driveway-cleaning-1200w.webp 1200w, /images/service-driveway-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-cleaning": {
+        "src": "/images/service-deck-patio-cleaning.webp",
+        "srcset": "/images/service-deck-patio-cleaning-400w.webp 400w, /images/service-deck-patio-cleaning-800w.webp 800w, /images/service-deck-patio-cleaning-1200w.webp 1200w, /images/service-deck-patio-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-cleaning": {
+        "src": "/images/service-fence-cleaning.webp",
+        "srcset": "/images/service-fence-cleaning-400w.webp 400w, /images/service-fence-cleaning-800w.webp 800w, /images/service-fence-cleaning-1200w.webp 1200w, /images/service-fence-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-power-washing": {
+        "src": "/images/service-commercial-power-washing.webp",
+        "srcset": "/images/service-commercial-power-washing-400w.webp 400w, /images/service-commercial-power-washing-800w.webp 800w, /images/service-commercial-power-washing-1200w.webp 1200w, /images/service-commercial-power-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
